@@ -1,13 +1,13 @@
-name: English 210
+name: English 9000
 pygments: true
 permalink: none
 baseurl: /template
-subtitle: Cats in Literature
+subtitle: Cats in Hats
 
-page1: texts
-page2: activities
-page3: resources
-page4: contact
+page1: hats
+page2: cats
+page3: bats
+page4: chicken of the cave
 
 delay2: "-webkit-animation-delay: .2s; -moz-animation-delay: .2s; -ms-animation-delay: 
 .2s; animation-delay: .2s;"
